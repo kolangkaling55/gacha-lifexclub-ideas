@@ -7,7 +7,7 @@
       "admob_nativeid": "ca-app-pub-2785989404048588/8984842531",
       "admob_openid": "ca-app-pub-2785989404048588/2443662521",
       "admob_rewardid": "ca-app-pub-2785989404048588/7355216036", 
-      "interval": 1,
+      "interval": 3,
       "coin_reward": 0
     }
   ],
